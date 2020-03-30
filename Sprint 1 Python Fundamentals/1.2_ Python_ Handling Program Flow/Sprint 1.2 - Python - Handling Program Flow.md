@@ -28,7 +28,7 @@
         Every next number is found by adding up the two numbers before it.
   - What are the benefits and limitations of using python?
 
-- Code Walkthrough (refer the GitHub repo)
+- Code Walkthrough (refer the GitHub repo [Code Walkthrough](https://github.com/commit-live-students/GLabs_DSMX/tree/master/Sprint%201%20Python%20Fundamentals/1.2_%20Python_%20Handling%20Program%20Flow/Code%20Walkthrough))
 - Questions and Discussion on doubts - AMA
 
 - Team Activity - It is ok to be wrong and the whole point of the activity is to make you think. You will have to fill a google form as part of the activity with your answers. (Refer the GitHub repo to see the [Activity](https://github.com/commit-live-students/GLabs_DSMX/blob/master/Sprint%201%20Python%20Fundamentals/1.2_%20Python_%20Handling%20Program%20Flow/Activity/Activity%20-%20Identifying%20the%20Correct%20Flow.md))

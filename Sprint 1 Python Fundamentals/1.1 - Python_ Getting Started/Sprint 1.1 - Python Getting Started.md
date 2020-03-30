@@ -21,7 +21,7 @@
   - Variables in Python
   - Data Structures in Python
   - Membership and Identity operators
-- Code Walkthrough (refer the GitHub repo)
+- Code Walkthrough (refer the GitHub repo [Code Walkthrough](https://github.com/commit-live-students/GLabs_DSMX/tree/master/Sprint%201%20Python%20Fundamentals/1.1%20-%20Python_%20Getting%20Started/Code%20Walkthrough))
 - Questions and Discussion on doubts - AMA
 - Team Activity - It is ok to be wrong and the whole point of the activity is to make you think. You will have to fill a google form as part of the activity with your answers. (Refer the GitHub repo to see the [Activity](https://github.com/commit-live-students/GLabs_DSMX/blob/master/Sprint%201%20Python%20Fundamentals/1.1%20-%20Python_%20Getting%20Started/Activity/Activity%20-%20Automating%20a%20Task.md))
 
