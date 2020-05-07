@@ -31,7 +31,7 @@
 
 - Code Walkthrough (refer the GitHub repo [Code Walkthrough](https://github.com/commit-live-students/GLabs_DSMX/tree/master/Sprint%203%20Data%20Visualization%20and%20Guided%20Hackathon/3.1%20-%20Data%20Visualization%20with%20Matplotlib/Code%20Walkthrough))
 - Questions and Discussion on doubts - AMA
-- Team Activity - It is ok to be wrong and the whole point of the activity is to make you think. You will have to fill a google form as part of the activity with your answers. (Refer the GitHub repo to see the [Activity]())
+- Team Activity - It is ok to be wrong and the whole point of the activity is to make you think. You will have to fill a google form as part of the activity with your answers. (Refer the GitHub repo to see the [Activity](https://github.com/commit-live-students/GLabs_DSMX/tree/master/Sprint%203%20Data%20Visualization%20and%20Guided%20Hackathon/3.1%20-%20Data%20Visualization%20with%20Matplotlib/Activity))
 
 
 **Next Session**
