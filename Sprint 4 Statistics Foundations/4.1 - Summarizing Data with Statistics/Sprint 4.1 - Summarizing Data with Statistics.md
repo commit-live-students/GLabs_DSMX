@@ -1,7 +1,7 @@
 
 ## SESSION PLAN
 
-### **Session Name**: Descriptive Statistics: Summarizing Data |
+### **Session Name**: Descriptive Statistics: Summarizing Data
 
 **Learning Outcomes**
 
