@@ -15,5 +15,6 @@ Every Sprint has two concepts and inside every concept, you'll find the session 
 - [Sprint 2.2 - Pandas: Wrangling with Data](https://github.com/commit-live-students/GLabs_DSMX/tree/master/Sprint%202%20NumPy%20and%20Pandas/2.2%20Data%20Wrangling%20with%20Pandas)
 - [Sprint 3.1 - Matplotlib: Data Visualization](https://github.com/commit-live-students/GLabs_DSMX/tree/master/Sprint%203%20Data%20Visualization%20and%20Guided%20Hackathon/3.1%20-%20Data%20Visualization%20with%20Matplotlib)
 - [Sprint 3.2 - Guided Hackathon](https://github.com/commit-live-students/GLabs_DSMX/tree/master/Sprint%203%20Data%20Visualization%20and%20Guided%20Hackathon/3.2%20-%20Guided%20Hackathon)
+- [Sprint 4.1 - Summarizing Data with Statistics](https://github.com/commit-live-students/GLabs_DSMX/blob/master/Sprint%204%20Statistics%20Foundations/4.1%20-%20Summarizing%20Data%20with%20Statistics/Sprint%204.1%20-%20Summarizing%20Data%20with%20Statistics.md)
 
 In addition to these, you can find some helpful resources in the [GreyAtom Data Science Knowledge Base](https://greyatomedutech.freshdesk.com/support/solutions)
