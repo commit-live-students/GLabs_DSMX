@@ -36,7 +36,6 @@
   - Conditional Probability
   - Bayes theorem
   - Probability Distributions
- |
 
 
 ```python
