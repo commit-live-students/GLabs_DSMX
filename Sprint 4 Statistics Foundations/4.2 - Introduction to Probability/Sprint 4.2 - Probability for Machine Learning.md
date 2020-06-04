@@ -28,7 +28,7 @@
 You’re on a game show, and you’re given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what’s behind the doors, opens another door, say No. 3, which has a goat. He then says to you, “Do you want to pick door No. 2?” Is it to your advantage to switch your choice? Will you switch or stay with your door?
 
 - Questions and Discussion on doubts - AMA
-- Team Activity - It is ok to be wrong and the whole point of the activity is to make you think. You will have to fill a google form as part of the activity with your answers. (Refer the GitHub repo to see the [Activity]())
+- Team Activity - It is ok to be wrong and the whole point of the activity is to make you think. You will have to fill a google form as part of the activity with your answers. (Refer the GitHub repo to see the [Activity](https://github.com/commit-live-students/GLabs_DSMX/blob/master/Sprint%204%20Statistics%20Foundations/4.2%20-%20Introduction%20to%20Probability/Activity/Activity%20-%20A%20variant%20of%20the%20famous%20Monty%20Hall%20Problem.md))
 
 
 **Next Session**
