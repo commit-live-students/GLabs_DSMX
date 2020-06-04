@@ -1,7 +1,7 @@
 
 ## SESSION PLAN
 
-### **Session Name**: Descriptive Statistics: Summarizing Data |
+### **Session Name**: Descriptive Statistics: Summarizing Data
 
 **Learning Outcomes**
 
@@ -24,7 +24,7 @@
   - Distribution of Data
   - Correlation
 - Questions and Discussion on doubts - AMA
-- Team Activity - It is ok to be wrong and the whole point of the activity is to make you think. You will have to fill a google form as part of the activity with your answers. (Refer the GitHub repo to see the [Activity]())
+- Team Activity - It is ok to be wrong and the whole point of the activity is to make you think. You will have to fill a google form as part of the activity with your answers. (Refer the GitHub repo to see the [Activity](https://github.com/commit-live-students/GLabs_DSMX/blob/master/Sprint%204%20Statistics%20Foundations/4.1%20-%20Summarizing%20Data%20with%20Statistics/Activity/Activity%20-%20Data%20Story%20Telling%20using%20Statistics.md))
 
 
 **Next Session**
