@@ -22,8 +22,10 @@
     - Ordinary Least Square
     - Evaluation Metrics
 
-
+- In Class Activity
 - Questions and Discussion on doubts - AMA
+
+[Session Notebook](https://github.com/commit-live-students/GLabs_DSMX/blob/master/Sprint%205%20Advanced%20Statistics/5.2%20-%20Make%20Your%20First%20Prediction%20with%20Linear%20Regression/notebooks/Learner_Make%20Your%20First%20Prediction%20with%20Linear%20Regression.ipynb)
 
 
 **Next Session**
