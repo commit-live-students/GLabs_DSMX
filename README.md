@@ -6,7 +6,7 @@ Every Sprint has two concepts and inside every concept, you'll find the session 
 
 - **Sesssion Plan** :   A outline of the activities and content to be covered in the session.
 - **Code Walkthrough** :  This folder contains an IPython notebook and the data file for the code-walkthrough to be performed during the session. 
-- **Activity** : It is ok to be wrong and the whole point of the activity is to make you think. You will have to fill a google form as part of the activity with your answers.
+- **Activity** : It is ok to be wrong and the whole point of the activity is to make you think.
 
 **Sprints of the Program**
 - [Sprint 1.1 - Python: Getting Started](https://github.com/commit-live-students/GLabs_DSMX/blob/master/Sprint%201%20Python%20Fundamentals/1.1%20-%20Python_%20Getting%20Started/Sprint%201.1%20-%20Python%20Getting%20Started.md)
