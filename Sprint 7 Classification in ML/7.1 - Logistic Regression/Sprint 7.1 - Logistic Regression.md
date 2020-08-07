@@ -1,37 +1,40 @@
 
 ## SESSION PLAN
 
-### **Session Name**: EDA & Data Preprocessing
+### **Session Name**: Logistic Regression
 
 **Learning Outcomes**
 
-- Detect and treat missing values, skewness and outliers in data
-- Normalize and aggregate data
-- Encode categorical variables for applying models
-- Explore univariate and multivariate data to get insights
+- Understand when to use Logistic Regression
+- Know the concepts of odds, odds ratio and sigmoid function
+- Build a linear regression model using sklearn
+- Understand the different evaluation metrics for classification tasks
+
 
 
 **Prerequisites for the Students**
 
-- EDA & Data Preprocessing- Go through the concept and solve the tasks and assessments.	
+- Logistic Regression - Go through the concept and solve the tasks and assessments.	
  
 **Student Activities**
 
 - Discuss with the Mentor what you have learned.
 
-- Overview of EDA & Data Pre-processing
- - Data Cleaning - Outlier Detection, Handling of Outliers, Detecting missing data, handling missing data
- - Data Transformation - Transforming skewed data, standardization and normalization, encoding categorical variables.
+- Overview of Logistic Regression
+ - Sigmoid
+ - Cost Function
+ - Evaluation Metrics
+
 
 
 - Questions and Discussion on doubts - AMA
 
-[Session Notebook](https://github.com/commit-live-students/GLabs_DSMX/blob/master/Sprint%206%20Data%20Processing%20and%20Prediction/6.2%20-%20EDA%20%26%20Data%20Pre-processing/notebooks/learner_exploratory_data_analysis_in_class_slides.ipynb)
+[Session Notebook](https://github.com/commit-live-students/GLabs_DSMX/tree/master/Sprint%207%20Classification%20in%20ML/7.1%20-%20Logistic%20Regression/notebooks)
 
 **Next Session**
 
-- Concept - Logistic Regression
+- Concept - Feature Selection
 - Key topics to be highlighted - highlight where they would need to spend more time and importance w.r.t Data Science.
-    ○ Sigmoid Function
-    ○ Cost Function with Gradient Descent
-    ○ Evaluation Metrics
+    ○  Feature Selection Importance
+    ○ Different types of Feature Selection Methods
+    ○ PCA
